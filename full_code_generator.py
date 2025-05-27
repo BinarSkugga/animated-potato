@@ -5,7 +5,6 @@ if __name__ == "__main__":
     full_code = ""
     extensions = ["java", "vert", "frag", "config"]
 
-    home = os.environ["HOME"]
     for ext in extensions:
         files = Path("src/").glob(f"**/*.{ext}")
         for path in files:
