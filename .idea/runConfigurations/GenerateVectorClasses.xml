@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="GenerateVectorClasses" type="RUN_ANYTHING_CONFIGURATION" factoryName="RunAnythingFactory">
+    <option name="arguments" value="-cp $PROJECT_DIR$/../../../$OSUser$/.m2/repository/com/squareup/javapoet/1.13.0/javapoet-1.13.0.jar:$PROJECT_DIR$/../../../$OSUser$/.m2/repository/org/projectlombok/lombok/1.18.38/lombok-1.18.38.jar:$PROJECT_DIR$/../../../$OSUser$/.m2/repository/org/jetbrains/annotations/26.0.2/annotations-26.0.2.jar:. src/main/java/io/binarskugga/dynamic/VectorGenerator.java" />
+    <option name="command" value="java" />
+    <option name="inputText" />
+    <option name="workingDirectory" value="$PROJECT_DIR$" />
+    <method v="2" />
+  </configuration>
+</component>
